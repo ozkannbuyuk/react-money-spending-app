@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "1+1 Daire",
+    "price": 17002,
+    "image": "https://pbs.twimg.com/media/E9y3w-yXsAI_5tB.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Sahibinden Çıtır Hasarlı",
+    "price": 1000000,
+    "image": "https://pbs.twimg.com/media/EYD2F65WoAMH0pC.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Ekmek",
+    "price": 10,
+    "image": "https://ideacdn.net/idea/jl/78/myassets/products/143/tekli-ekmek-tereci-resim-1407.jpg?revision=1707112359"
+  },
+  {
+    "id": 4,
+    "title": "Kola 2.5lt",
+    "price": 50,
+    "image": "https://cdn.dsmcdn.com/ty27/product/media/images/20201127/18/33097970/58233893/1/1_org_zoom.jpg"
+  }
+]
