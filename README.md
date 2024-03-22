@@ -2,6 +2,10 @@
    React - Money Spending App
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-money-spending-app/assets/111967202/e1ad7aa4-7116-4691-9c34-0f87dd7f27ed" width="700" />
 </p>
